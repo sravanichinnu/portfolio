@@ -1,5 +1,9 @@
 title: Sravani Namburu
 logo: /images/sravani.jpg
-#description: text below image
-show_downloads: true
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
+  I am a recent Data Science gradaute from Northeastern University actively seeking job opportunities to leverage my skills. Previously I worked at Cognizant Technology Solutions, and TRACT. 
+  <br><br>
+  <a href="https://www.linkedin.com/in/sravaninamburu/">View my LinkedIn Profile</a> 
+#show_downloads: true
 theme: jekyll-theme-minimal

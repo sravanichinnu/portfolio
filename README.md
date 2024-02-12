@@ -3,6 +3,9 @@
 ### Forecasting Energy Consumption
 The goal of this project to perform high level exploratory data analysis and build different time series models which will help in forecasting the energy consumtpion in future.
 
+<img src="images/boxplot.png?raw=true" /><img src="images/seasons1.png?raw=true" />
+<img src="images/monthly.png?raw=true" /><img src="images/heatmap.png?raw=true" />
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
 [View code on Colab]()

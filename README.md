@@ -5,9 +5,9 @@ The goal of this project to perform high level exploratory data analysis and bui
 
 <img src="images/img1.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 
-[View code on Colab]()
+[View code on Colab](https://colab.research.google.com/drive/12t4xi6aQPqUbIEAZOjPsRxsOnn3FYj00#scrollTo=tODy1xDxmD4b)
 
 ---
 ### Hospital Database Management System
@@ -18,6 +18,11 @@ Developed a Hospital Database Management System using MySQL and Python to provid
 
 ---
 ### Genre Identification and Song Similarity
+This project involves study on how to visualize sound, understand what we hear and identify the features that determine and differentiate one song from another. This study uses feature extraction and classification to help group songs on a genre basis - songs that are highly similar instead of manual tags. The model identifies the similar song based on the input song which enhances user experience and increases artist recognition.
+
+<img src="images/img2.png?raw=true" />
+
+[View code on Colab](https://colab.research.google.com/drive/1G_5Id5mjf0A5yzE_J1KFXrp7_3-9xZSW#scrollTo=uNg6dKy1zQie)
 
 ---
 ### Grammar Error Detection

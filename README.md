@@ -29,9 +29,6 @@ This project involves study on how to visualize sound, understand what we hear a
 [View code on Colab](https://colab.research.google.com/drive/1G_5Id5mjf0A5yzE_J1KFXrp7_3-9xZSW#scrollTo=uNg6dKy1zQie)
 
 ---
-### Grammar Error Detection
-
----
 ## Education
 Master of Science, Data Science at Northeastern University, Boston, MA
 

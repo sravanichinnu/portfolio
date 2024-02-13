@@ -13,7 +13,7 @@ The goal of this project to perform high level exploratory data analysis and bui
 ### Hospital Database Management System
 Developed a Hospital Database Management System using MySQL and Python to provide an easy-to-use and efficient solution for managing hospital data. I implemented a command line interface that offers a menu-driven output, making it simpler for users to interact with the system. This project followed an iterative development process, starting with requirements gathering, database design, implementation, and testing.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/SQL-white?logo=SQL)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MySQL-white?logo=MySQL)](#)
 
 
 [View code on Github](https://github.com/sravanichinnu/Hospital-Database-Management-System)

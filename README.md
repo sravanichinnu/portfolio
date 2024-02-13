@@ -5,7 +5,9 @@ The goal of this project to perform high level exploratory data analysis and bui
 
 <img src="images/img1.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Google--Colab-white?logo=Google%20Colab)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) [![](https://img.shields.io/badge/sklearn-white?logo=sklearn)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#) 
+
+
 
 [View code on Colab](https://colab.research.google.com/drive/12t4xi6aQPqUbIEAZOjPsRxsOnn3FYj00#scrollTo=tODy1xDxmD4b)
 
@@ -13,7 +15,9 @@ The goal of this project to perform high level exploratory data analysis and bui
 ### Hospital Database Management System
 Developed a Hospital Database Management System using MySQL and Python to provide an easy-to-use and efficient solution for managing hospital data. I implemented a command line interface that offers a menu-driven output, making it simpler for users to interact with the system. This project followed an iterative development process, starting with requirements gathering, database design, implementation, and testing.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/SQL-white?logo=SQL)](#)
+
+
 [View code on Github](https://github.com/sravanichinnu/Hospital-Database-Management-System)
 
 ---
@@ -21,6 +25,8 @@ Developed a Hospital Database Management System using MySQL and Python to provid
 This project involves study on how to visualize sound, understand what we hear and identify the features that determine and differentiate one song from another. This study uses feature extraction and classification to help group songs on a genre basis - songs that are highly similar instead of manual tags. The model identifies the similar song based on the input song which enhances user experience and increases artist recognition.
 
 <img src="images/img2.png?raw=true" />
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](
 
 [View code on Colab](https://colab.research.google.com/drive/1G_5Id5mjf0A5yzE_J1KFXrp7_3-9xZSW#scrollTo=uNg6dKy1zQie)
 

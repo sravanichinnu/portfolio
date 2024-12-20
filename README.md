@@ -36,6 +36,15 @@ Bachelor of Technology, Computer Science Technology, KL University, India
 
 ---
 ## Work Experience
+### Associate Data Engineer @ Travelers Insurance
+- Collaborated with Data Engineers to analyze, design, and document processes for generating production highlights, ensuring alignment with business objectives and data quality standards.
+- Developed low-level design flows in Confluence, detailing the data movement steps and transformation logic for production highlight generation.
+- Utilized an in-house data movement tool for data ingestion, including transferring data from SQL server to AWS artifact and Guidewire CDA S3 to Enterprise Data Lake S3 artifact.
+- Leveraged Databricks to perform reconciliation checks between source and target systems, ensuring data accuracy and consistency during data migration processes.
+- Designed and implemented AutoSys jobs to schedule and orchestrate data movement workflows, improving process automation.
+- Collaborated with cross-functional teams to ensure data governance and compliance with enterprise standards.
+
+---
 ### Machine Learning Engineer Intern @ TRACT
 - Developed and implemented ML algorithms to enhance the accuracy of AI-powered private investigator tool ‘Sherlock’.
 - Conducted comprehensive data analysis on user’s social sentiment scores using weighted regression analysis, providing valuable insights for risk assessment, and contributing to a 10% improvement in overall risk analysis accuracy.

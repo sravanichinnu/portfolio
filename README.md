@@ -3,7 +3,7 @@
 ### Coffee Sales Dashboard using Excel
 The project involves creating a comprehensive excel dashboard to analyze and visualize coffee sales performance. This dashboard provides insights into sales across regions, and products with key metrics including total sales, growth trends, and top5 customers.
 
-<img src="images/coffee_sales_dashboard.png?raw=true" >/
+<img src="images/coffee_sales_dashboard.png?raw=true" />
 
 [![]([https://img.shields.io/badge/Excel-white?logo=Microsoft%20Excel&logoColor=green)](#)
 

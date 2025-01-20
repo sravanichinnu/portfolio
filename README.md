@@ -5,7 +5,7 @@ The project involves creating a comprehensive excel dashboard to analyze and vis
 
 <img src="images/coffee_sales_dashboard.png?raw=true" />
 
-[![Excel Dashboard]([https://img.shields.io/badge/Excel-white?logo=Microsoft%20Excel&logoColor=green)](#)
+[![Excel Dashboard]([https://img.shields.io/badge/:badgeContent?logo=Microsoft%20Excel&label=Excel&color=green)](#)
 
 ---
 ### Forecasting Energy Consumption

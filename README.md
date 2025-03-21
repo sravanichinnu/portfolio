@@ -44,7 +44,7 @@ Bachelor of Technology, Computer Science Technology, KL University, India
 
 ---
 ## Work Experience
-### Associate Data Engineer @ Travelers Insurance
+### Sr Associate Data Engineer @ Travelers Insurance
 - Collaborated with Data Engineers to analyze, design, and document processes for generating production highlights, ensuring alignment with business objectives and data quality standards.
 - Developed low-level design flows in Confluence, detailing the data movement steps and transformation logic for production highlight generation.
 - Utilized an in-house data movement tool for data ingestion, including transferring data from SQL server to AWS artifact and Guidewire CDA S3 to Enterprise Data Lake S3 artifact.

@@ -44,33 +44,28 @@ Bachelor of Technology, Computer Science Technology, KL University, India
 
 ---
 ## Work Experience
+### Data Engineer @ IQVIA (Contract)
+Built scalable batch and real-time pipelines with PySpark, Kafka, and AWS Glue, cutting manual effort by 80%. Automated data quality checks, transformed XML/JSON into analytics-ready data in Redshift, and created QuickSight dashboards that boosted revenue by 10%.
+
+---
 ### Sr Associate Data Engineer @ Travelers Insurance
-- Collaborated with Data Engineers to analyze, design, and document processes for generating production highlights, ensuring alignment with business objectives and data quality standards.
-- Developed low-level design flows in Confluence, detailing the data movement steps and transformation logic for production highlight generation.
-- Utilized an in-house data movement tool for data ingestion, including transferring data from SQL server to AWS artifact and Guidewire CDA S3 to Enterprise Data Lake S3 artifact.
-- Leveraged Databricks to perform reconciliation checks between source and target systems, ensuring data accuracy and consistency during data migration processes.
-- Designed and implemented AutoSys jobs to schedule and orchestrate data movement workflows, improving process automation.
-- Collaborated with cross-functional teams to ensure data governance and compliance with enterprise standards.
+Contributed to a major data mirgation project to transfer the data legacy SQL Server to AWS S3, improving accessibility and cutting infrastructure costs. Built PySpark-based workflows in Databricks and AWS Glue, implemented data quality checks reducing QA time by 10+ hours per week, and developed Snowflake automations. Delivered Power BI dashboards for real-time KPI and production monitoring, ensuring accuratr, actionable insights.
 
 ---
 ### Machine Learning Engineer Intern @ TRACT
-- Developed and implemented ML algorithms to enhance the accuracy of AI-powered private investigator tool ‘Sherlock’.
-- Conducted comprehensive data analysis on user’s social sentiment scores using weighted regression analysis, providing valuable insights for risk assessment, and contributing to a 10% improvement in overall risk analysis accuracy.
-- Collaborated with cross-functional teams to improve the functionality of ‘Sherlock’ tool’s front-end interface.
+Developed risk prediction models using advanced algorithms (Logistic Regression, Random Forest, XGBoost). Automated the entire ML workflow with AWS Lambda and Step Functions, improving efficiency and scalability. Enhanced model performance through hyperparameter tuning and collaborated with cross-functional teams to deliver robust end-to-end machine learning solutions that significantly improved risk assessment accuracy.
   
 ---
 ### Programmer Analyst @ Cognizant Technology Solutions
-- Developed and executed over 100 Perl ad hoc tasks, utilizing SQL queries to retrieve data and generate reports in alignment with client requirements, showcasing proficiency in Perl scripting, SQL, and data management.
-- Utilized SQL query system to retrieve and manipulate data and employed the version control system Bitbucket for collaboration.
-- Administered the seamless weekly transmission of reports by collaborating closely with the transmission team and resolving issues.
-- Led a 3-member team, fostering effective teamwork, and communication skills to ensure timely deliverables.
-- Managed 3 enhancement tasks, overseeing the end-to-end development lifecycle using Agile, leading to the successful deployment.
+Automated and optimized data pipelines with Python, Airflow, and SQL, reducing processing time and manual work by 100+ hours. Built CI/CD systems using Git and Jenkins, managed ETL configs with MongoDB, and migrated legacy workflows to Azure data lakes for better scalability. Ensured smooth production by resolving issues and particiapting in code reviews.
   
 ---
-### Software Developer Intern @ Cognizant Technology Solutions
-- Developed a Java-based web application using the Spring MVC framework, effectively meeting all business requirements.
-- Utilized HTML, CSS, JavaScript, and Java with database SQL on Apache Tomcat server using Eclipse IDE to design a visually appealing and user-friendly interface for the application.
-- Collaborated with a team of 4 members using Git version control system to efficiently organize updates, modifications, and task assignments throughout the project development process following Scrum methodology.
+### Python Developer Intern @ Cognizant Technology Solutions
+Built a full-stack web application using Python (Flask/Django), JavaScript, and SQL, attracting 50k+ active users in the first month. Implemented dynamic SQL for bulk OLTP operations.
+
+---
+### Data Analytics Intern @ BSNL
+Optimized SQL queries and automated tasks to analyze telecom data, reducing manual work. Builr Excel dashboards for customer metrics and ensured data quality through thorough validation.
 
 
 

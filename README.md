@@ -44,7 +44,7 @@ Bachelor of Technology, Computer Science Technology, KL University, India
 
 ---
 ## Work Experience
-### Data Engineer @ IQVIA (Contract)
+### Data Engineer @ Eval Consulting
 Built scalable batch and real-time pipelines with PySpark, Kafka, and AWS Glue, cutting manual effort by 80%. Automated data quality checks, transformed XML/JSON into analytics-ready data in Redshift, and created QuickSight dashboards that boosted revenue by 10%.
 
 ---

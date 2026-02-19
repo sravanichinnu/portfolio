@@ -44,8 +44,8 @@ Bachelor of Technology, Computer Science Technology, KL University, India
 
 ---
 ## Work Experience
-### Data Engineer @ Optum Health
-Built scalable batch and real-time pipelines with PySpark, Kafka, and AWS Glue, cutting manual effort by 80%. Automated data quality checks, transformed XML/JSON into analytics-ready data in Redshift, and created QuickSight dashboards that boosted revenue by 10%.
+### Data Engineer @ CVS Health
+Worked on batch and streaming data pipelines using AWS (S3, Glue, Lambda) and Databricks with PySpark/Spark SQL to support healthcare analytics. Prepared NLP-ready datasets from clinical text using Python/Spark and AWS Comprehend, and supported query performance work in Snowflake/Redshift. Contributed to data quality checks and governance workflows (Airflow, Great Expectations) and collaborated with cross-functional teams in Agile.
 
 ---
 ### Sr Associate Data Engineer @ Travelers Insurance

@@ -3,6 +3,12 @@
 
 @import "jekyll-theme-minimal";
 
+@media(min-width: 961px) {
+  .wrapper {
+    width: 90%;
+    max-width: 1100px:
+  }
+  
 header, footer {
   position: static;
   float: left;
@@ -12,6 +18,12 @@ header, footer {
 footer {
   clear: left;
   margin-top: 30pm;
+}
+
+section {
+  width: calc(100% - 300px);
+  float: right;
+}
 }
 
 section p, section li {

@@ -1,0 +1,15 @@
+---
+---
+
+@ import "jekyll-theme-minimal";
+
+header, footer {
+  position: static;
+  float: left;
+  width: 270px;
+}
+
+footer {
+  clear: left;
+  margin-top: 30pm;
+}

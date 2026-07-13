@@ -1,7 +1,7 @@
 ## Selected Projects in Data Science, Machine Learning, and NLP
 ---
 ### Forecasting Energy Consumption
-The goal of this project to perform high level exploratory data analysis and build different time series models which will help in forecasting the energy consumtpion in future.
+End-to-end time series forecasting project that predicts hourly electricity demand using the PJME energy consumption dataset. Built a production-oriented ML pipeline on AWS, from S3 data ingestion and AWS Glue feature engineering, through Athena analytics and SageMaker model training, to QuickSight visualization, using a tuned XGBoost model that reduced forecast RMSE by ~9%.
 
 <img src="images/img1.png?raw=true" />
 
@@ -50,19 +50,11 @@ Worked on batch and streaming data pipelines using AWS (S3, Glue, Lambda) and Da
 ---
 ### Sr Associate Data Engineer @ Travelers Insurance
 Contributed to a major data mirgation project to transfer the data legacy SQL Server to AWS S3, improving accessibility and cutting infrastructure costs. Built PySpark-based workflows in Databricks and AWS Glue, implemented data quality checks reducing QA time by 10+ hours per week, and developed Snowflake automations. Delivered Power BI dashboards for real-time KPI and production monitoring, ensuring accuratr, actionable insights.
-
----
-### Machine Learning Engineer Intern @ TRACT
-Developed risk prediction models using advanced algorithms (Logistic Regression, Random Forest, XGBoost). Automated the entire ML workflow with AWS Lambda and Step Functions, improving efficiency and scalability. Enhanced model performance through hyperparameter tuning and collaborated with cross-functional teams to deliver robust end-to-end machine learning solutions that significantly improved risk assessment accuracy.
   
 ---
 ### Programmer Analyst @ Cognizant Technology Solutions
 Automated and optimized data pipelines with Python, Airflow, and SQL, reducing processing time and manual work by 100+ hours. Built CI/CD systems using Git and Jenkins, managed ETL configs with MongoDB, and migrated legacy workflows to Azure data lakes for better scalability. Ensured smooth production by resolving issues and particiapting in code reviews.
-  
----
-### Python Developer Intern @ Cognizant Technology Solutions
-Built a full-stack web application using Python (Flask/Django), JavaScript, and SQL, attracting 50k+ active users in the first month. Implemented dynamic SQL for bulk OLTP operations.
 
 ---
-### Data Analytics Intern @ BSNL
-Optimized SQL queries and automated tasks to analyze telecom data, reducing manual work. Builr Excel dashboards for customer metrics and ensured data quality through thorough validation.
+### Data Analyst @ Avenir Technologies
+Analyzed 2M+ healthcare claims and provider records (SQL, Excel) to improve reporting accuracy. Built Power BI and Tableau dashboards for operational KPIs, and ran trend and root-cause analysis to surface improvement opportunities across healthcare datasets.

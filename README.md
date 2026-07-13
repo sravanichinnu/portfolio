@@ -15,8 +15,7 @@ Developed a Hospital Database Management System using MySQL and Python to provid
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MySQL-white?logo=MySQL)](#)
 
-
-[View code on Github](https://github.com/sravanichinnu/Hospital-Database-Management-System)
+[![Code](https://img.shields.io/badge/-Code-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/sravanichinnu/Hospital-Database-Management-System))
 
 ---
 ### Coffee Sales Dashboard using Excel

@@ -13,3 +13,7 @@ footer {
   clear: left;
   margin-top: 30pm;
 }
+
+section p, section li {
+  color: #333333;
+}

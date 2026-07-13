@@ -33,7 +33,8 @@ This project involves study on how to visualize sound, understand what we hear a
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/librosa-white?logo=librosa)](#) [![](https://img.shields.io/badge/Seaborn-white?logo=Seaborn)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
 
-[View code on Colab](https://colab.research.google.com/drive/1G_5Id5mjf0A5yzE_J1KFXrp7_3-9xZSW#scrollTo=uNg6dKy1zQie)
+[![Code](https://img.shields.io/badge/-Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sravanichinnu/GenreIdentification)
+
 
 ---
 ## Education
